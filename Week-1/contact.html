@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"></style>
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            <form class="form">
+                <h1 class="header">Contact me?</h1>
+                <label for="subject">Subject</label>
+                <textarea oninput="trackerLength()" type="text" class="input1" id="subject" placeholder="Enter subject (5-20 characters)"></textarea>
+                <label for="message">Message</label>
+                <textarea oninput="trackerLength()" class="input2" id="message" placeholder="Your message here (20-540 characters)"></textarea>
+                <button onclick="submitForm()">Submit</button>
+            </form>
+        </div>
+        <div class ="right"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
