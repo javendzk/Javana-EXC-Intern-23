@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pattern1 {
+    background: linear-gradient(135deg, #65b8ea55 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #65b8ea 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #65b8ea55 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #65b8ea 25%, #e6f4f7 25%) 0px 0/ 20px 20px;
+}
+
+.pattern2 {
+    background-color: #f6f7bc;
+    background-image: radial-gradient(#fda656 0.5px, #f6f7bc 0.5px);
+    background-size: 10px 10px;
+}
+  

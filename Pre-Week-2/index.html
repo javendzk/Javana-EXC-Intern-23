@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact me?</title>
+    <link href="/dist/output.css" rel="stylesheet">
+</head>
+<body class="h-screen m-0">
+    <div class="h-screen grid grid-cols-2">
+        <div class="h-screen flex items-center pattern2 border-r-2 border-black">
+            <div class="flex flex-col mx-6 w-full">
+                <h1 class="font-agbalumo text-6xl mb-7">Contact me?</h1>
+                <label for="subject" class="font-edu text-2xl mb-1.5">Subject</label>
+                <textarea oninput="trackerLength()" type="text" class="w-3/4 border-black h-9 font-sans rounded-md shadow-none border-2 mb-5 resize-none text-sm align-top p-1" id="subject" placeholder="Enter subject (5-20 characters)"></textarea>
+                <label for="message" class="font-edu text-2xl mb-1.5">Message</label>
+                <textarea oninput="trackerLength()" class="w-3/4 h-56 font-sans rounded-md shadow-none border-black border-2 mb-5 resize-none text-sm align-top p-1" id="message" placeholder="Your message here (20-540 characters)"></textarea>
+                <div class="flex flex-col w-3/4">
+                    <div class="flex justify-center"> 
+                      <button onclick="submitForm()" class="h-10 w-20 rounded bg-orange-400 shadow-none border-black border-2 font-mono text-base duration-200 hover:duration-200 hover:bg-amber-200 hover:scale-110">Submit</button>
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class ="h-screen pattern1"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
