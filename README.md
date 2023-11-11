@@ -1,4 +1,4 @@
-## EXERCISE Software Internship 2023
+## Javen's EXC FTUI 23 Software Internship
 | Week | Task |
 | ------ | ------ |
 | Pre-1 | Centered search bar with HTML & CSS |
@@ -7,6 +7,6 @@
 | 2 | .... |
 
 Javana Muhammad Dzaki  
-Team 3 software intern  
+Team 3 Software Intern  
 November-December 2023
 
