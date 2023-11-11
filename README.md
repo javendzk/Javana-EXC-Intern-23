@@ -5,7 +5,7 @@ This repository is used to store the weekly task of software intern. From basic 
 | ------ | ------ |
 | Pre-1 | Centered search bar with HTML & CSS |
 | 1 | Contact me page + gmail mailto with HTML, CSS & JS|
-| Pre-2 | Transform Week-1's CSS into taiwindCSS|
+| Pre-2 | Transform Week-1's CSS into tailwindCSS|
 | 2 | .... |
 
 *Javana Muhammad Dzaki  
