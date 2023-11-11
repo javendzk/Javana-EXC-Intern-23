@@ -1,4 +1,6 @@
 ## Javen's EXC FTUI 23 Software Internship
+This repository is used to store the weekly task of software intern. From basic HTML to React JS at the end. Thank you bang Dimas for having us!
+
 | Week | Task |
 | ------ | ------ |
 | Pre-1 | Centered search bar with HTML & CSS |
@@ -6,7 +8,7 @@
 | Pre-2 | Transform Week-1's CSS into taiwindCSS|
 | 2 | .... |
 
-Javana Muhammad Dzaki  
+*Javana Muhammad Dzaki  
 Team 3 Software Intern  
-November-December 2023
+November-December 2023*
 
